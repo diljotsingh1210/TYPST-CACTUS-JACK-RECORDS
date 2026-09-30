@@ -1,0 +1,88 @@
+#set text(font: "Cantarell")
+#set page(fill: rgb("#5A321E"))
+= #text(fill: rgb("FFFDD0"))[CACTUS JACK RECORDS] #align(center)[
+  #image("cactus-jack-seeklogo.png", width: 2.5cm)
+] 
+== #text(font: "DM Serif Display")[NATA NEL 2017 NEGLI _STATI UNITI_, FONDATA DA #text(fill: rgb("FFFDD0"))[*TRAVIS SCOTT*], AKA JACQUES BERMON WEBSTER]
+
+Nel Marzo 2017, #text(fill: rgb("FFFDD0"))[Travis Scott]annuncia che crea una sua etichetta discografica
+#text(fill:rgb("FFFDD0"))[*CACTUS JACK RECORDS*] mentre faceva una intervista perché
+così poteva aiutare i nuovi cantanti con potenziale, che li aiutasse come hanno
+fatto  #text(fill: gray)[KANYE WEST] e  #text(fill: blue)[KID CUDI].
+
+TRAVIS fu scoperto da  #text(fill: gray)[KANYE] che gli aprì il mondo del rap e della produzione.
+ #text(fill: blue)[KID CUDI] lo aiutò molto a fare musica fuori dagli schemi. Nel 2012 firmò
+proprio per  #text(fill: gray)[Kanye] per la sua etichetta G.O.O.D. Music come Producer.
+
+Fu fondamentale per la compilation di YEEZUS e CRUEL SUMMER, dove il suo tocco
+lascia un'impronta importante. Da qui #text(fill: gray)[KANYE] diventa il suo mentore ufficiale
+musicalmente e visivamente.
+
+Da questo legame tra loro tre nascono le prime collaborazioni iconiche come:
+Through the Late Night (2016), brano uscito nell'album Birds in the Trap
+Sing McKnight con_ #text(fill:blue)[KID CUDI]_, e nel 2020 uscì il singolo THE SCOTTS con #text(fill:blue)[KID CUDI],
+che arrivò al primo posto nella classifica Billboard.
+
+Mentre con KANYE WEST nasce una collaborazione, arrivando a hit mondiali come
+PRAISE GOD che sta nell'album DONDA di #text(fill: gray)[KANYE].
+
+== L'aiuto di #text(fill: gray)[KANYE] e #text(fill:blue)[KID CUDI]
+
+L'aiuto di YE e KID CUDI è servito molto per questo crea
+#text(fill:rgb("FFFDD0"))[*_CACTUS JACK RECORDS_*].
+
+Il 10 marzo #text(fill: red)[DON TOLIVER] firma per l'etichetta dopo che #text(fill: rgb("FFFDD0"))[TRAVIS] fece un feat con
+lui nel brano CAN'T SAY, brano dell'album #text(fill: yellow)[ASTROWORLD],
+che si è piazzato al primo posto nella BILLBOARD 200.
+
+Il 19 novembre 2019, #text(fill: rgb("FFFDD0"))[TRAVIS] annuncia la prima compilation dell'etichetta
+intitolata #text(fill: olive)[JACKBOYS] con #text(fill: rgb("FFFDD0"))[TRAVIS SCOTT], #text(fill: red)[DON TOLIVER],
+#text(fill: lime)[SHECK WES] e #text(fill: purple)[SoFaygo].
+
+Alcuni artisti collegati a #text(fill: rgb("FFFDD0"))[*_Cactus Jack_*] sono:
+
+- #text(fill:rgb("FFFDD0"))[Travis Scott]
+- #text(fill: red)[Don Toliver]
+- #text(fill: lime)[Sheck Wes]
+- #text(fill: purple)[SoFaygo]
+Le principali attività di #text(fill: rgb("FFFDD0"))[Cactus Jack] comprendono:
+
++ Musica
++ Collaborazioni
++ Produzioni
++ Moda e Creatività
+
+==  #text(fill: rgb("FF1493"))[La matematica nella musica]
+
+Nella musica possiamo usare la matematica per calcolare il numero di battiti
+di una canzone.
+
+La formula è:
+
+$ B = 140 dot 3 = 420 $
+
+dove:
+- $B$ è il numero totale di battiti
+- $140$ indica i battiti al minuto
+- $3$ è la durata della canzone in minuti
+
+Per esempio, considerando un brano a 140 BPM della durata di 3 minuti:
+
+$ B = 140 dot 3 = 420 $
+
+Quindi il brano contiene circa *420 battiti*.
+
+
+== #text(fill: rgb("FF1493"))[GRAZIE DELLA LETTURA/VISIONE]
+
+Scritto da #text(fill: lime)[JOT] AKA
+#text(fill:rgb("FFFDD0"))[DILJOT SINGH 3D INF "*_FOR THIS LIFE I CANNOT CHANGE_*"]
+
+#align(center)[
+  #grid(
+    columns: (1fr, 1fr),
+    gutter: 9cm,
+    image("cactus-jack-seeklogo - Copia.png", width: 5cm),
+    image("PngItem_1302381.png", width: 3cm),
+  )
+]
